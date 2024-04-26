@@ -1,6 +1,3 @@
-Here's an updated README for the `SearchBar` component based on its latest functionality that includes fuzzy searching:
-
-```markdown
 # SearchBar React Component
 
 ## Overview
